@@ -57,3 +57,5 @@ Depois siga:
 ```
 
 Esse guia mostra como criar os três repositórios.
+
+Leia https://github.com/reiarthur/easy-ai-clients
